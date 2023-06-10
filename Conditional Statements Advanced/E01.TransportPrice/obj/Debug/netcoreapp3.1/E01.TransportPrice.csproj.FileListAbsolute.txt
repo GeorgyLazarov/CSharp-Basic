@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\bin\Debug\netcoreapp3.1\E01.TransportPrice.exe
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\bin\Debug\netcoreapp3.1\E01.TransportPrice.deps.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\bin\Debug\netcoreapp3.1\E01.TransportPrice.runtimeconfig.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\bin\Debug\netcoreapp3.1\E01.TransportPrice.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\bin\Debug\netcoreapp3.1\E01.TransportPrice.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\bin\Debug\netcoreapp3.1\E01.TransportPrice.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\E01.TransportPrice\obj\Debug\netcoreapp3.1\E01.TransportPrice.genruntimeconfig.cache

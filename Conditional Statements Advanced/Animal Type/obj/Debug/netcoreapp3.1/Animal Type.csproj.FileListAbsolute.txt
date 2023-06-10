@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.exe
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.deps.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.genruntimeconfig.cache

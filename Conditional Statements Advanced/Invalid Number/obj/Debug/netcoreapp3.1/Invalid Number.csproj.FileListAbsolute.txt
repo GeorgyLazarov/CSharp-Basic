@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.exe
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.deps.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.runtimeconfig.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.genruntimeconfig.cache

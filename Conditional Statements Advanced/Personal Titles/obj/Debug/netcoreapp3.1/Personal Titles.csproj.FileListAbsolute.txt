@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.exe
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.deps.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.genruntimeconfig.cache

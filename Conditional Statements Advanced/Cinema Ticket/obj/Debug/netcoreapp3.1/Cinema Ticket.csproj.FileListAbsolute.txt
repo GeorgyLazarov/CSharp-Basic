@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.exe
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.deps.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.runtimeconfig.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp3.1\Cinema Ticket.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.dll
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.pdb
+C:\Users\Admin\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp3.1\Cinema Ticket.genruntimeconfig.cache
