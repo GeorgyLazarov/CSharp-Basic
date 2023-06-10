@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\bin\Debug\netcoreapp3.1\E03.ChangeTiles.exe
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\bin\Debug\netcoreapp3.1\E03.ChangeTiles.deps.json
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\bin\Debug\netcoreapp3.1\E03.ChangeTiles.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\bin\Debug\netcoreapp3.1\E03.ChangeTiles.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\bin\Debug\netcoreapp3.1\E03.ChangeTiles.dll
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\bin\Debug\netcoreapp3.1\E03.ChangeTiles.pdb
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.dll
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.pdb
+C:\Users\Admin\source\repos\Simple-Calculations\E03.ChangeTiles\obj\Debug\netcoreapp3.1\E03.ChangeTiles.genruntimeconfig.cache
